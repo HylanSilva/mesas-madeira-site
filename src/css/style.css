@@ -1,0 +1,14 @@
+@media only screen and (max-width: 500px) {
+    .fotography {
+        display: none;
+    }
+
+}
+
+.btn-outline-secondary {
+    background-color: white;
+}
+
+.btn-outline-secondary::hover {
+    background-color: #25d366;
+}
